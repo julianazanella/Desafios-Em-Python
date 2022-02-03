@@ -1,0 +1,1 @@
+## Joguinho simples de adivinhação entre máquina e usuário.
